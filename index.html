@@ -144,7 +144,7 @@
 </ul> 
                                                 </ul>
                                             </li>
-                                            <li><a href="o">О сайте</a></li>
+                                            <li><a href="#o">О сайте</a></li>
                                         </ul>
                                     </nav>
                                 </div>
